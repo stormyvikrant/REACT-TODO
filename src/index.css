@@ -1,0 +1,33 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+/* .center{
+    
+} */
+.redcolor{
+    color: tomato;
+    background-color:skyblue;
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+}
+
+.mariginauto{
+    margin: auto;
+}
+#logo{
+    width:250px;
+    height: 200px;
+    margin-top: 25px;
+
+    margin-left: 42%;
+}
+#input_taking{
+ margin-left: 42%;
+ margin-top: 30px;
+}
+#displayTodo{
+    margin-left: 42%;
+}
